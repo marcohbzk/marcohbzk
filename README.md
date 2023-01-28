@@ -14,7 +14,7 @@
 - 📫 How to reach me **2212631@my.ipleiria.pt / marco.hbzk02@gmail.com / Radlad#4830**
 
 - ⚡ Fun fact **Animals that lay eggs don't have belly buttons.**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/marcohbzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marcohbzk" height="30" width="40" /></a>
