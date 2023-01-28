@@ -11,7 +11,7 @@
  
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **2212631@myipleiria.pt / marco.hbzk02@gmail.com / Radlad#4830**
+- 📫 How to reach me **2212631@my.ipleiria.pt / marco.hbzk02@gmail.com / Radlad#4830**
 
 - ⚡ Fun fact **Animals that lay eggs don't have belly buttons.**
 - 
