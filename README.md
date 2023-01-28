@@ -29,4 +29,4 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=marcohbzk&" alt="marcohbzk" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcohbzk&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="marcohbzk" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcohbzk&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="marcohbzk" /></p>
