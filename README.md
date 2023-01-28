@@ -1,4 +1,4 @@
-https://tenor.com/view/banner-gif-22389167)](https://github.com/marcohbzk/)
+<img alt="Coder" width="400" src="https://tenor.com/view/banner-gif-22389167">
 <h1 align="center">Hi 👋, I'm Marco Harbuzyuk</h1>
 <h3 align="center">A passionate developer from Portugal</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
