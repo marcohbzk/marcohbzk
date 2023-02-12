@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently taking a **Information Technology Course** at **Polytechnic Institute Of Leiria**
  
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Kotlin**
 
 - 📫 How to reach me **2212631@my.ipleiria.pt / marco.hbzk02@gmail.com / Radlad#4830**
 
