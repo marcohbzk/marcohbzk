@@ -9,8 +9,10 @@
 
 - 🌱 I’m currently taking a **Information Technology Course** at **Polytechnic Institute Of Leiria**
  
-- 🌱 I’m currently learning **C#** and **React**
+- 🌱 I’m currently learning **C#** | **React** | **Cypress**
 
+- 🌱 I’m currently an intern at **VOID** **Software**©
+ 
 - 📫 How to reach me **2212631@my.ipleiria.pt / marco.hbzk02@gmail.com / Radlad#4830**
 
 - ⚡ Fun fact **Animals that lay eggs don't have belly buttons.**
