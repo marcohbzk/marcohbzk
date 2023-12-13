@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcohbzk" alt="marcohbzk" /></a> </p>
 
-- 🌱 I’m currently taking a **Information Technology Course** at **Polytechnic Institute Of Leiria**
+- 🌱 I’m currently taking a **Software Engineering Course** at **Polytechnic Institute Of Leiria**
  
-- 🌱 I’m currently learning **C#** | **React** | **Cypress**
+- 🌱 I’m currently learning **Cpp**
 
-- 🌱 I’m currently an intern at **VOID** **Software**©
+- 🌱 Former intern at **VOID** **Software**©
  
-- 📫 How to reach me **2212631@my.ipleiria.pt / marco.hbzk02@gmail.com / Radlad#4830**
+- 📫 How to reach me **2212631@my.ipleiria.pt / marco.hbzk02@gmail.com / discord: radlad1337**
 
 - ⚡ Fun fact **Animals that lay eggs don't have belly buttons.**
 
