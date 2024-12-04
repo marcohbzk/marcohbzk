@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcohbzk" alt="marcohbzk" /></a> </p>
 
-- 🌱 I’m currently taking a **Software Engineering Course** at **Polytechnic Institute Of Leiria**
+- 🌱 I’m currently taking a **Computer Science Course** at **Polytechnic Institute Of Leiria**
  
-- 🌱 I’m currently learning **Cpp**
+- 🌱 I’m currently learning **Springboot**
 
 - 🌱 Former intern at **VOID** **Software**©
  
