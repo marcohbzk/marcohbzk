@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently taking a **Computer Science Course** at **Polytechnic Institute Of Leiria**
  
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **NodeJS**
 
 - 🌱 Former intern at **VOID** **Software**©
  
-- 📫 How to reach me **2212631@my.ipleiria.pt / marco.hbzk02@gmail.com / discord: radlad1337**
+- 📫 How to reach me **2231798@my.ipleiria.pt / marco.hbzk02@gmail.com / discord: radlad1337**
 
 - ⚡ Fun fact **Animals that lay eggs don't have belly buttons.**
 
