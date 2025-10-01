@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently taking a **Computer Science Course** at **Polytechnic Institute Of Leiria**
  
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Spring**
 
 - 🌱 Former intern at **VOID** **Software**©
  
