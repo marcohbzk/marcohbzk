@@ -22,7 +22,7 @@
 
 **About Me**
 
-🎓 &nbsp;Master's in CS @ **University of Leiria & West**  
+🎓 &nbsp;BSc in CS | Completing Master's @ **University of Leiria & West**  
 🔍 &nbsp;Exploring **Reverse Engineering** with IDA Pro  
 💼 &nbsp;Former intern @ **VOID Software**  
 🌍 &nbsp;Based in **Portugal**  
