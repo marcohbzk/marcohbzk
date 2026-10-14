@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=200&section=header&text=Marco%20Harbuzyuk&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Portugal&descSize=18&descAlignY=58&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Master%27s+in+Computer+Science;Reverse+Engineering+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Completing+Master%27s+in+CS;Reverse+Engineering+Enthusiast;Rust+Plugins+Developer;M2Dev+%7C+Metin2+Server+Dev;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,15 +19,12 @@
 <table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
-
-**About Me**
-
-🎓 &nbsp;BSc in CS | Completing Master's @ **University of Leiria & West**  
-🔍 &nbsp;Exploring **Reverse Engineering** with IDA Pro  
-💼 &nbsp;Former intern @ **VOID Software**  
-🌍 &nbsp;Based in **Portugal**  
-📬 &nbsp;marco.hbzk02@gmail.com
-
+      <h3>About Me</h3>
+      🎓 &nbsp;BSc in CS | Completing Master's @ <strong>University of Leiria &amp; West</strong><br/>
+      🔍 &nbsp;Exploring <strong>Reverse Engineering</strong> with IDA Pro<br/>
+      💼 &nbsp;Former intern @ <strong>VOID Software</strong><br/>
+      🌍 &nbsp;Based in <strong>Portugal</strong><br/>
+      📬 &nbsp;marco.hbzk02@gmail.com
     </td>
     <td valign="top" width="50%" align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=marcohbzk&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=4&margin-h=4" width="100%" />
