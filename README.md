@@ -7,44 +7,32 @@
 <p align="center">
   <a href="https://linkedin.com/in/marcohbzk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://dev.to/marcohbzk"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-  &nbsp;
   <a href="mailto:marco.hbzk02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   &nbsp;
   <a href="https://codefling.com/2b23546afc66480f51dba54574e871c3"><img src="https://img.shields.io/badge/Codefling-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Codefling" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=marcohbzk&style=for-the-badge&color=8b5cf6&label=VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>About Me</h3>
-      🎓 &nbsp;BSc in CS | Completing Master's @ <strong>University of Leiria &amp; West</strong><br/>
-      🔍 &nbsp;Exploring <strong>Reverse Engineering</strong> with IDA Pro<br/>
-      💼 &nbsp;Former intern @ <strong>VOID Software</strong><br/>
-      🌍 &nbsp;Based in <strong>Portugal</strong><br/>
-      📬 &nbsp;marco.hbzk02@gmail.com
-    </td>
-    <td valign="top" width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=marcohbzk&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=4&margin-h=4" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🎓 &nbsp;BSc in CS | Completing Master's @ <strong>University of Leiria &amp; West</strong><br/>
+  🔍 &nbsp;Exploring <strong>Reverse Engineering</strong> with IDA Pro &nbsp;·&nbsp; 💼 &nbsp;Former intern @ <strong>VOID Software</strong><br/>
+  🌍 &nbsp;Portugal &nbsp;·&nbsp; 📬 &nbsp;marco.hbzk02@gmail.com
+</p>
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcohbzk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://streak-stats.demolab.com/?user=marcohbzk&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=marcohbzk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcohbzk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most Used Languages" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" />
 </p>
 
 ---
