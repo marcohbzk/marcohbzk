@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/marcohbzk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:marco.hbzk02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:info@hbzksolutions.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
   &nbsp;
   <a href="https://codefling.com/2b23546afc66480f51dba54574e871c3"><img src="https://img.shields.io/badge/Codefling-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Codefling" /></a>
 </p>
@@ -17,7 +17,7 @@
 <p align="center">
   🎓 &nbsp;BSc in CS | Completing Master's @ <strong>University of Leiria &amp; West</strong><br/>
   🔍 &nbsp;Exploring <strong>Reverse Engineering</strong> with IDA Pro &nbsp;·&nbsp; 💼 &nbsp;Former intern @ <strong>VOID Software</strong><br/>
-  🌍 &nbsp;Portugal &nbsp;·&nbsp; 📬 &nbsp;marco.hbzk02@gmail.com
+  🌍 &nbsp;Portugal &nbsp;·&nbsp; 📬 &nbsp;info@hbzksolutions.com
 </p>
 
 ---
