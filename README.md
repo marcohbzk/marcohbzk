@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  🎓 &nbsp;BSc in CS | Completing Master's @ <strong>University of Leiria &amp; West</strong><br/>
+  🎓 &nbsp;BSc in CS | Completing Master's @ <strong>University of Leiria &amp; West | Visit hbzksolutions.com </strong><br/>
   🔍 &nbsp;Exploring <strong>Reverse Engineering</strong> with IDA Pro &nbsp;·&nbsp; 💼 &nbsp;Former intern @ <strong>VOID Software</strong><br/>
   🌍 &nbsp;Portugal &nbsp;·&nbsp; 📬 &nbsp;info@hbzksolutions.com
 </p>
